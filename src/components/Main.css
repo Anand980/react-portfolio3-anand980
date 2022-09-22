@@ -1,0 +1,7 @@
+.bars {
+  display: flex;
+  background-color: darkslategray;
+  height: 120px;
+  align-items: center;
+  justify-content: center;
+}
