@@ -1,30 +1,30 @@
 let resumeData = {
   imagebaseurl: "https://github.com/anand980/",
   name: "Anand Bharti",
-  role: "Frontend Developer",
+  role: "Software Engineer",
   linkedinId: " anandbharti980",
   skypeid: "Your skypeid",
   roleDescription:
-    "Software Professional with 8 years of technical expertise in financial, healthcare, and manufacturing domains, possessing hands-on experience in web application design and development. Strong web application developer with an entrepreneurialmindset and a sense of ownership, interested in building and maintaining industry-leading software products",
+    " I have 8+ years of technical expertise in financial, healthcare, and manufacturing domains, possessinghands-on experience in web application design and development. Strong web application developer with an entrepreneurialmindset and a sense of ownership, interested in building and maintaining industry-leading software products.",
   socialLinks: [
     {
       name: "linkedin",
       url: "https://www.linkedin.com/in/anandbharti980/",
-      className: "fa fa-linkedin"
+      className: "fa fa-linkedin",
     },
     {
       name: "github",
       url: "http://github.com/anand980",
-      className: "fa fa-github"
+      className: "fa fa-github",
     },
     {
       name: "skype",
       url: "https://www.instagram.com/anandbharti980/",
-      className: "fa fa-instagram"
-    }
+      className: "fa fa-instagram",
+    },
   ],
   aboutme:
-    "I am a Software Engineer. Currently working with Xoriant. I have worked with Fiserv in past. I graduated (BE Computer Science) from Pune University in 2017",
+    "I am a Software Engineer with 8+ years of experience. Currently working with Oracle. I graduated (BE Computer Science) from Pune University in 2017",
   address: "India",
   website: "https://github.com/anand980",
   education: [
@@ -32,92 +32,76 @@ let resumeData = {
       UniversityName: "Pune University",
       specialization: "Computer Engineering",
       MonthOfPassing: "Aug",
-      YearOfPassing: "2017"
+      YearOfPassing: "2017",
       // Achievements: "Some Achievements"
     },
     {
       UniversityName: "MGM Bokaro",
       specialization: "XII",
       MonthOfPassing: "Apr",
-      YearOfPassing: "2012"
+      YearOfPassing: "2012",
       // Achievements: "Some Achievements"
     },
     {
       UniversityName: "DAV Aurangabad",
       specialization: "X",
       MonthOfPassing: "Apr",
-      YearOfPassing: "2010"
+      YearOfPassing: "2010",
       // Achievements: "Some Achievements"
-    }
+    },
   ],
   work: [
     {
       CompanyName: "Oracle",
       specialization: "Senior Member of Techincal Staff",
       MonthOfLeaving: "Nov",
-      YearOfLeaving: "2024"
+      YearOfLeaving: "2024",
       // Achievements: "Some Achievements"
     },
     {
       CompanyName: "John Deere",
       specialization: "Lead Software Engineer",
       MonthOfLeaving: "Feb",
-      YearOfLeaving: "2023"
+      YearOfLeaving: "2023",
       // Achievements: "Some Achievements"
     },
     {
       CompanyName: "Xoriant",
       specialization: "Software Engineer",
       MonthOfLeaving: "May",
-      YearOfLeaving: "2022"
+      YearOfLeaving: "2022",
       // Achievements: "Some Achievements"
     },
     {
       CompanyName: "Fiserv",
       specialization: "Xoriant",
       MonthOfLeaving: "Dec",
-      YearOfLeaving: "2017"
+      YearOfLeaving: "2017",
       // Achievements: "Some Achievements"
-    }
+    },
   ],
   skillsDescription: "Your skills here",
   skills: [
     {
       skillname: "HTML5",
-      imgsrc: "html5.svg"
+      imgsrc: "html5.svg",
     },
     {
       skillname: "CSS",
-      imgsrc: "css-3.svg"
+      imgsrc: "css-3.svg",
     },
     {
       skillname: "Reactjs",
-      imgsrc: "react.svg"
+      imgsrc: "react.svg",
     },
     {
       skillname: "Javascript",
-      imgsrc: "icons8-javascript.svg"
+      imgsrc: "icons8-javascript.svg",
     },
     {
       skillname: "Typescript",
-      imgsrc: "icons8-typescript.svg"
+      imgsrc: "icons8-typescript.svg",
     },
-    {
-      skillname: "Node",
-      imgsrc: "node-js-icon.svg"
-    },
-    {
-      skillname: "AWS",
-      imgsrc: "aws-icon.svg"
-    },
-    {
-      skillname: "AI",
-      imgsrc: "ai-icon.svg"
-    },
-    {
-      skillname: "python",
-      imgsrc: "pythin-icon.svg"
-    }
   ],
   portfolio: [
     {
@@ -125,26 +109,26 @@ let resumeData = {
       description: "A web application for food ordering",
       link: "https://react-yndcui.stackblitz.io",
       imgurl:
-        "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp"
+        "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp",
     },
     {
       name: "Online Food Order",
       description: "A website similar to Zomato",
       link: "https://react-ikfkwo.stackblitz.io",
       imgurl:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbNw_vP05soOrrAwLWx7w7JV9769svcqDLOw&usqp=CAU"
-    }
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbNw_vP05soOrrAwLWx7w7JV9769svcqDLOw&usqp=CAU",
+    },
   ],
   testimonials: [
     {
       description: "This is a sample testimonial",
-      name: "Some technical guy"
+      name: "Some technical guy",
     },
     {
       description: "This is a sample testimonial",
-      name: "Some technical guy"
-    }
-  ]
+      name: "Some technical guy",
+    },
+  ],
 };
 
 export default resumeData;
