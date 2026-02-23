@@ -5,7 +5,7 @@ let resumeData = {
   linkedinId: " anandbharti980",
   skypeid: "Your skypeid",
   roleDescription:
-    "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "Software Professional with 8 years of technical expertise in financial, healthcare, and manufacturing domains, possessing hands-on experience in web application design and development. Strong web application developer with an entrepreneurialmindset and a sense of ownership, interested in building and maintaining industry-leading software products",
   socialLinks: [
     {
       name: "linkedin",
@@ -52,6 +52,20 @@ let resumeData = {
   ],
   work: [
     {
+      CompanyName: "Oracle",
+      specialization: "Senior Member of Techincal Staff",
+      MonthOfLeaving: "Nov",
+      YearOfLeaving: "2024"
+      // Achievements: "Some Achievements"
+    },
+    {
+      CompanyName: "John Deere",
+      specialization: "Lead Software Engineer",
+      MonthOfLeaving: "Feb",
+      YearOfLeaving: "2023"
+      // Achievements: "Some Achievements"
+    },
+    {
       CompanyName: "Xoriant",
       specialization: "Software Engineer",
       MonthOfLeaving: "May",
@@ -89,8 +103,20 @@ let resumeData = {
       imgsrc: "icons8-typescript.svg"
     },
     {
-      skillname: "Bootstrap",
-      imgsrc: "bootstrap.svg"
+      skillname: "Node",
+      imgsrc: "node-js-icon.svg"
+    },
+    {
+      skillname: "AWS",
+      imgsrc: "aws-icon.svg"
+    },
+    {
+      skillname: "AI",
+      imgsrc: "ai-icon.svg"
+    },
+    {
+      skillname: "python",
+      imgsrc: "pythin-icon.svg"
     }
   ],
   portfolio: [
